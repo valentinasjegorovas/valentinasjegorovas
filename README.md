@@ -8,7 +8,7 @@ I'm an aspiring Front End developer who is passionate about creating interactive
 - 🎓 I have a strong interest in web development and constantly strive to improve my skills.
 - 🔍 I’m looking for opportunities to collaborate on exciting projects and internships to gain more practical experience.
 - 🛠️ In my free time, I enjoy experimenting with new tools and frameworks to expand my knowledge.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valentinas-jegorovas-7a0295204/) | [Email](valentinas.jegorovas@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valentinas-jegorovas-7a0295204/)
 
 ### Skills
 - HTML, CSS, JavaScript, TypeScript
