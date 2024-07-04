@@ -4,7 +4,7 @@
 
 I'm an aspiring Front End developer who is passionate about creating interactive web applications.
 
-- 🌱 I’m currently learning Front End technologies such as HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, and more.
+- 🌱 I’m diving deep into Front End technologies and frameworks such as HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, and more.
 - 🎓 I have a strong interest in web development and constantly strive to improve my skills.
 - 🔍 I’m looking for opportunities to collaborate on exciting projects and internships to gain more practical experience.
 - 🛠️ In my free time, I enjoy experimenting with new tools and frameworks to expand my knowledge.
